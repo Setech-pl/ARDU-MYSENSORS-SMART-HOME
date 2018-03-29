@@ -63,7 +63,7 @@
 
 #define MY_GATEWAY_ESP8266
 #define MY_ESP8266_SSID "teletubisie"
-#define MY_ESP8266_PASSWORD "FDe98rh4wokudvxfgsvhp4r33"
+#define MY_ESP8266_PASSWORD "****************************"
 #define MY_SKETCH_NAME "WIFI gate "
 #define MY_SKETCH_VERSION "1.2"
 #define MY_SKETCH_VENDOR "(c)2018 Marceli"
