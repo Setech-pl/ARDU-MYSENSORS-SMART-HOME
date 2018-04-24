@@ -6,7 +6,7 @@
  *******************************
  *
  * REVISION HISTORY
- * Version 1.1 - Marcin Krzetowski
+ * Version 1.4 - Marcin Krzetowski
  *
  * DESCRIPTION
  * The EthernetGateway sends data received from sensors to the WiFi link.
